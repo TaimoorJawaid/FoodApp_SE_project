@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\taimo\\OneDrive\\Desktop\\FoodApp_Program_final-20220131T171837Z-001\\FoodApp_Program_final\\FoodApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\taimo\\OneDrive\\Desktop\\FoodApp_Program_final-20220131T171837Z-001\\FoodApp_Program_final\\FoodApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\taimo\\OneDrive\\Desktop\\FoodApp_Program_final-20220131T171837Z-001\\FoodApp_Program_final\\FoodApp.csproj",
+        "projectName": "FoodApp",
+        "projectPath": "C:\\Users\\taimo\\OneDrive\\Desktop\\FoodApp_Program_final-20220131T171837Z-001\\FoodApp_Program_final\\FoodApp.csproj",
+        "packagesPath": "C:\\Users\\taimo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taimo\\OneDrive\\Desktop\\FoodApp_Program_final-20220131T171837Z-001\\FoodApp_Program_final\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taimo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "FontAwesome": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[5.15.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
